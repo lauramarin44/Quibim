@@ -4,7 +4,6 @@ import os
 import pydicom.data
 import numpy as np
 from matplotlib import pyplot, cm
-import os
 import matplotlib.pyplot as plt
 from scipy.ndimage import gaussian_filter
 import cv2  
@@ -103,7 +102,7 @@ def main():
    
     
   
-
+##########For input folder, please remove '-' , rename folder to T1_3D_TFE#####
 
 
 if __name__ == "__main__":
