@@ -102,7 +102,7 @@ def main():
    
     
   
-##########For input folder, please remove '-' , rename folder to T1_3D_TFE#####
+##########For input folder, please remove space before and after '-' , rename folder to T1_3D_TFE-301#####
 
 
 if __name__ == "__main__":
