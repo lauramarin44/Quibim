@@ -4,7 +4,6 @@ import os
 import pydicom.data
 import numpy as np
 from matplotlib import pyplot, cm
-import os
 import matplotlib.pyplot as plt
 from scipy.ndimage import gaussian_filter
 import cv2  
