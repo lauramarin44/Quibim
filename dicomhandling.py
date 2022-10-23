@@ -79,7 +79,7 @@ dcm_filter.get_image_dicom()
 dcm_filter.store_numpy()
 dcm_filter.ipp
 print(dcm_filter.ipp)
-#New_patient.Gauss_2D_Dicom()
+New_patient.Gauss_2D_Dicom()
 
 
 ##########################   TASK 2   #######################
@@ -89,7 +89,7 @@ dcm_rotate.get_image_dicom_rotate()
 dcm_rotate.store_numpy_rotate()
 dcm_rotate.ipp
 print(dcm_rotate.ipp)
-#New_patient.rotate_dicom()
+New_patient.rotate_dicom()
 
 
 ##########################   TASK 3   #######################
